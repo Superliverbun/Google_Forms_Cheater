@@ -67,6 +67,6 @@ def fill_form(url, num_submissions):
     driver.quit()
 
 # Example usage
-form_url = "https://docs.google.com/forms/d/e/1FAIpQLSfrHBVO1jXqk8sF9ZYGiNMgZyJ9cEKAEXCjb7wFFFz9wMw3MQ/viewform"
+form_url = "YOUR_LINK_HERE"
 number_of_submissions = 1
 fill_form(form_url, number_of_submissions)
